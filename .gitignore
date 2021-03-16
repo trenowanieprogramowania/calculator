@@ -2,3 +2,5 @@
 venv
 **/*.pyc
 registry_files
+sshkey
+sshkey.pub
