@@ -68,14 +68,4 @@ at least 15.9 MB of RAM.
 | ------------- |:-------------:|
 | 1. | In Git CLI type `git clone https://github.com/trenowanieprogramowania/calculator.git ` |
 | 2. | From prompt/console select path of repository.|
-| 3. | Type `python3 main.py`
-
-
-
-
----
-
-
-
----
-
+| 3. | Type `python3 main.py`|
