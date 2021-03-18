@@ -47,7 +47,7 @@ It is assumed that user installed the following components on PC:
 ### Usage
 
 To run this programme, it is recommended to have on PC
-at least 15.9 MB of RAM.
+at least 20.0 MB of RAM.
 
 ---
 
