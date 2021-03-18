@@ -20,7 +20,7 @@ at least 15.9 MB of RAM.
 
 ### Building
 
-- ###Option 1
+- Option 1
 
 | No. of step   | Description   |
 | ------------- |:-------------:|
@@ -29,7 +29,7 @@ at least 15.9 MB of RAM.
 | 3. | From prompt/console select path of repository.|
 | 4. | Type `python3 main.py`
 
-- ###Option 2
+- Option 2
 
 | No. of step   | Description   |
 | ------------- |:-------------:|
