@@ -3,6 +3,39 @@
 
 ---
 
+Python 3 implementation of basic calculator with
+some extended functionalities.
+
+---
+
+### Features
+* Range of operations
+ 
+Calculator supports the following operations:
+
+i) addition
+
+ii) subtraction
+
+iii) multiplication
+
+iv) division
+
+
+* Memorization
+
+Calculator supports handling previously obtained score.
+
+It is possible to discard hitherto obtained score and
+initialise calculations
+
+* Login registry
+
+Software registers user's name and stores last of time 
+of usage of the programme
+
+---
+
 ### Preliminaries
 
 It is assumed that user installed the following components on PC:
@@ -42,31 +75,7 @@ at least 15.9 MB of RAM.
 
 ---
 
-### Features
-* Range of operations
- 
-Calculator supports the following operations:
 
-i) addition
-
-ii) subtraction
-
-iii) multiplication
-
-iv) division
-
-
-* Memorization
-
-Calculator supports handling previously obtained score.
-
-It is possible to discard hitherto obtained score and
-initialise calculations
-
-* Login registry
-
-Software registers user's name and stores last of time 
-of usage of the programme
 
 ---
 
