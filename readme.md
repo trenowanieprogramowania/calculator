@@ -1,10 +1,12 @@
 
-## Calculator
+## Calculator (author: trenowanieprogramowania)
 
 ---
 
 Python 3 implementation of basic calculator with
 some extended functionalities.
+
+Note: Calculator works without GUI, in CLI mode.
 
 ---
 
@@ -20,6 +22,11 @@ ii) subtraction
 iii) multiplication
 
 iv) division
+
+* Validation of input
+
+Calculator verifies the validity of input data each time.
+Hence, there is a guarantee of correctness of operations.
 
 
 * Memorization
